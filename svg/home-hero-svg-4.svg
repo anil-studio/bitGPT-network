@@ -2666,11 +2666,11 @@
   <rect width="126" height="35" x="722" y="725.5" stroke="#282828" rx="7.5"/>
   <path fill="#F7F7F7" d="M748.9 747v-7.3h-2.7v-1h6.7v1h-2.7v7.3h-1.3Zm5.3 0v-8.4h6v1.1h-4.7v2.4h3.2v1.1h-3.2v2.7h4.7v1.1h-6Zm8.5-3.5v-1h2.1c.4 0 .7-.1 1-.3.2 0 .4-.2.6-.5l.2-.7c0-.3 0-.5-.2-.7l-.5-.4-.8-.2h-2.4v-1h2.4c.5 0 1 0 1.4.2a2.2 2.2 0 0 1 1.2 3c-.1.3-.3.6-.6.8-.3.3-.6.4-1 .6a4 4 0 0 1-1.4.2h-2Zm-1 3.5v-8.4h1.3v8.4h-1.2Zm4.9 0a4.5 4.5 0 0 0-2-3.1l-1.3-.8 1.4-.3a6.4 6.4 0 0 1 2.3 2c.3.3.5.6.6 1l.3 1.2h-1.3Zm2 0 .7-8.4h1.6l1 5 .3 1.6.3-1.6 1-5h1.7l.6 8.4h-1.2l-.3-5.2v-1.9l-.4 1.9-1.2 5.2h-1l-1.2-5.2-.3-2v2l-.3 5.2h-1.3Zm10.5 0v-8.4h1.3v8.4h-1.3Zm-2-8.4h5.4v1.1H777v-1Zm0 7.3h5.4v1.1H777v-1Zm7.1 1.1v-8.4h1.6l3.5 6.7v-6.7h1.2v8.4h-1.6l-3.5-6.6v6.6h-1.2Zm8.5-2.1v-1h4.6v1h-4.6Zm1.3-6.3h1.8l2.6 8.4h-1.3l-1.7-5.5-.5-1.9-.5 1.9-1.7 5.5h-1.3l2.6-8.4Zm5.9 8.4v-8.4h1.3v7.3h4.4v1.1h-5.7Z"/>
   <path fill="#F6F6F6" fill-rule="evenodd" d="m818.8 738.8 4.2 4.2-4.2 4.2-.8-.8 2.8-2.8h-6.5v-1.2h6.5l-2.8-2.8.8-.8Z" clip-rule="evenodd"/>
-  <rect width="137" height="137" x="716.5" y="575.5" fill="url(#ia)" rx="31.5"/>
-  <rect width="137" height="137" x="716.5" y="575.5" stroke="#181818" rx="31.5"/>
-  <rect width="137" height="137" x="716.5" y="575.5" stroke="url(#ib)" rx="31.5"/>
+  <rect class="logo-terminal" width="137" height="137" x="716.5" y="575.5" fill="url(#ia)" rx="31.5"/>
+  <rect class="logo-terminal" width="137" height="137" x="716.5" y="575.5" stroke="#181818" rx="31.5"/>
+  <rect class="logo-terminal" width="137" height="137" x="716.5" y="575.5" stroke="url(#ib)" rx="31.5"/>
   <rect width="114" height="114" x="728" y="587" fill="#000" rx="24"/>
-  <g filter="url(#ic)">
+  <g class="logo-terminal" filter="url(#ic)">
     <rect width="112" height="112" x="729" y="588" fill="#0F0F0F" rx="24"/>
     <rect width="112" height="112" x="729" y="588" fill="#2E74FF" fill-opacity=".1" rx="24"/>
     <rect width="112" height="112" x="729" y="588" fill="url(#id)" rx="24"/>
@@ -2679,10 +2679,10 @@
     <path fill="url(#ig)" d="M772 639.8a10.4 10.4 0 0 1-17-7.9c0-5.7 4.6-10.2 10.4-10.2 2.5 0 4.8.9 6.6 2.3 10 8.2 16 8.2 26 0a10.4 10.4 0 0 1 17 8c0 5.6-4.6 10.2-10.4 10.2-2.5 0-4.8-1-6.6-2.4-10-8.2-16-8.2-26 0Z"/>
     <path fill="url(#ih)" d="M794.8 656c0 5.8-4.6 10.3-10.3 10.3-5.7 0-10.4-4.5-10.4-10.2 0-5.7 4.7-10.3 10.4-10.3s10.3 4.6 10.3 10.3Z"/>
   </g>
-  <g filter="url(#ii)" style="mix-blend-mode:plus-lighter">
+  <g class="logo-terminal" filter="url(#ii)" style="mix-blend-mode:plus-lighter">
     <ellipse cx="785.5" cy="678" fill="#266BF2" rx="56.5" ry="27"/>
   </g>
-  <g filter="url(#ij)" style="mix-blend-mode:plus-lighter">
+  <g class="logo-terminal" filter="url(#ij)" style="mix-blend-mode:plus-lighter">
     <ellipse cx="785.5" cy="608" fill="#266BF2" rx="56.5" ry="27"/>
   </g>
   <g filter="url(#ik)">
