@@ -2690,7 +2690,7 @@
         <path fill="url(#ip)" d="M772 369a9 9 0 1 0 17 0 9 9 0 0 0-17 0Z"/>
       </g>
     </g>
-    <g clip-path="url(#iq) id="network">
+    <g clip-path="url(#iq)" id="network">
       <rect width="194" height="194" x="689" y="272" fill="url(#ir)" rx="32"/>
       <g filter="url(#is)" opacity=".5" style="mix-blend-mode:plus-lighter">
         <path fill="#2E74FF" fill-rule="evenodd" d="M640 265c4-5-3-16 3-20 5-3 16 0 25 3 9 2 16 11 25 14 12 3 21-3 32 2 11 6 19 16 26 24 8 10 13 19 17 28 4 11 12 25 5 30-9 6-28-3-42-5l-25-1c-9-1-17-2-26-6s-17-10-25-17c-7-6-15-12-21-19-6-8-16-17-14-24 1-7 16-4 20-9Z" clip-rule="evenodd"/>
