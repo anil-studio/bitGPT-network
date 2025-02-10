@@ -2670,7 +2670,7 @@
   <rect width="137" height="137" x="716.5" y="575.5" stroke="#181818" rx="31.5"/>
   <rect width="137" height="137" x="716.5" y="575.5" stroke="url(#ib)" rx="31.5"/>
   <rect width="114" height="114" x="728" y="587" fill="#000" rx="24"/>
-  <g filter="url(#ic)" id="terminal-logo">
+  <g filter="url(#ic)">
     <rect width="112" height="112" x="729" y="588" fill="#0F0F0F" rx="24"/>
     <rect width="112" height="112" x="729" y="588" fill="#2E74FF" fill-opacity=".1" rx="24"/>
     <rect width="112" height="112" x="729" y="588" fill="url(#id)" rx="24"/>
